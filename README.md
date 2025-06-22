@@ -25,12 +25,12 @@
 -	Provided 6+ analytical reports to enhance data mining and updating processes. 
 
 **Data Science and Analytics @ Quantum Learning (_May 2021 – Oct 2021_)**
-•	Assisted 2 weeks in data sourcing, metadata management and data integration of datasets.
-•	Collaborated with the support team by 60% to deliver efficient data services.
+-	Assisted 2 weeks in data sourcing, metadata management and data integration of datasets.
+-	Collaborated with the support team by 60% to deliver efficient data services.
 
 **Data Science and Business Analytics @ The Sparks Foundation	(_Jan 2021 – Feb 2021_)**
-•	Learned 3+ machine learning algorithms to identify the data trends. 
-•	Gathered the reference of 30% people to research on data requirements for the documentation.
+-	Learned 3+ machine learning algorithms to identify the data trends. 
+-	Gathered the reference of 30% people to research on data requirements for the documentation.
 
 ## Projects
 ###
